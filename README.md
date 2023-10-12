@@ -1,4 +1,4 @@
-### 👋 Hi there !
+### 👋 Hi there
 
 ### 🧑🏻‍💻 Once I've Used
 
