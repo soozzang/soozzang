@@ -1,4 +1,6 @@
 ###  Hi there 👋
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=soozzang&layout=compact"><br><br>
+<img src="https://github-readme-stats.vercel.app/api?username=soozzang&show_icons=true">
 
 ### 🧑🏻‍💻 Once I've Used
 
