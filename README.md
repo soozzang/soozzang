@@ -1,4 +1,6 @@
 # 한수현 *Han Soo Hyun*
+<a href="https://github.com/sjh9391985">[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fsoozzang&count_bg=%23000000&title_bg=%23000000&icon=github.svg&icon_color=%23E7E7E7&title=Visitors&edge_flat=false)](https://hits.seeyoufarm.com)</a> 
+[![](https://img.shields.io/badge/solved.ac-gold3-FFC53C?edge_flat=false&title_bg=%23000000)]() 
 ### 🔮 Interest
 - Backend Development &nbsp;<sub>(Java, Spring, JPA)</sub>
 - Clean Code
@@ -25,11 +27,3 @@
 
 ### 🌊 More About...   
 **[BLOG](https://soodevlog.site)** | **[MAIL](mailto:soozzang@inha.edu)** 
-
---- 
-<a href="https://github.com/sjh9391985">[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fsoozzang&count_bg=%23000000&title_bg=%23000000&icon=github.svg&icon_color=%23E7E7E7&title=Visitors&edge_flat=false)](https://hits.seeyoufarm.com)</a> 
-[![](https://img.shields.io/badge/solved.ac-gold3-FFC53C?edge_flat=false&title_bg=%23000000)]() 
-
-
-![soozzang's GitHub stats](https://github-readme-stats.vercel.app/api?username=soozzang&include_all_commits=True&count_private=True&show_icons=true&theme=dark&rank_icon=github)
-
