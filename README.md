@@ -26,4 +26,4 @@
 </div>
 
 ### 🌊 More About...   
-**[BLOG]([https://soodevlog.site](https://velog.io/@soozzang/posts))** | **[MAIL](mailto:soozzang@inha.edu)** 
+**[BLOG](https://velog.io/@soozzang/posts)** | **[MAIL](mailto:soozzang@inha.edu)** 
