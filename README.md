@@ -1,6 +1,6 @@
 # 한수현 *Han Soo Hyun*
 
-[![My Skills](https://skillicons.dev/icons?i=openstack,kubernetes,docker,go,python,rabbitmq,elasticsearch,linux)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=kubernetes,go,kafka,openstack,python,rabbitmq,elasticsearch)](https://skillicons.dev)
 
 ***NHN Cloud***  <sub><sup>Cloud Engineer (2025.08 ~ )</sup></sub>  
 ***Team42***  <sub><sup>Server Developer (2024.10 ~ 2025.08)</sup></sub>  
